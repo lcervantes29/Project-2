@@ -1,0 +1,29 @@
+/* styling for body */
+body {
+   
+.cabin-resumebody {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 15;
+    font-style: normal;
+    font-variation-settings: 100;
+  }
+
+}
+/* styling for h2 */
+h2 {
+.eb-garamond-resumeh2 {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 10;
+    font-style: normal;
+  }
+}
+/* adding color for h3 */
+h3 {
+    color: #006400;
+}
+/* styling for hyperlinks */
+a {
+    color:#4169e1;
+}
